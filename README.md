@@ -1,1 +1,1 @@
-This a new note file
+# This a new note file
